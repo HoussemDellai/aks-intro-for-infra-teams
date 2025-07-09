@@ -826,3 +826,12 @@ cat /var/log/containers/nginx_default_nginx-fc19dd28749ecb46034d5ca8ff0d958716e5
 ## Summary
 
 In this lab, you learned how to create a Kubernetes cluster in Azure using AKS and deploy a simple web application using Nginx. You also learned how to expose the application using a Service and an Ingress controller.
+
+## What is next ?
+
+This workshop is a good getting started. If you want to go deeper in AKS architecture and network configurations, you will find useful content in this video series.
+
+<div class="video-embed">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vV6TeUSlmvc?list=PLpbcUe4chE79sB7Jg7B4z3HytqUUEwcNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
