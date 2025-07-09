@@ -1,15 +1,15 @@
 ---
-published: false                        # Optional. Set to true to publish the workshop (default: false)
+published: true                        # Optional. Set to true to publish the workshop (default: false)
 type: workshop                          # Required.
-title: Full workshop title              # Required. Full title of the workshop
-short_title: Short title                # Optional. Short title displayed in the header
-description: This is a workshop for...  # Required.
+title: AKS intro for infra teams             # Required. Full title of the workshop
+short_title: AKS intro for infra teams                # Optional. Short title displayed in the header
+description: This is a workshop for getting started with Azure AKS for the infrastructure teams focusing on infra and network concepts.  # Required.
 level: beginner                         # Required. Can be 'beginner', 'intermediate' or 'advanced'
 authors:                                # Required. You can add as many authors as needed      
-  - Name
+  - Houssem Dellai
 contacts:                               # Required. Must match the number of authors
-  - Author's email, Twitter...
-duration_minutes: 20                    # Required. Estimated duration in minutes
+  - houssem.dellai@microsoft.com
+duration_minutes: 180                    # Required. Estimated duration in minutes
 tags: javascript, api, node.js          # Required. Tags for filtering and searching
 #banner_url: assets/banner.jpg           # Optional. Should be a 1280x640px image
 #video_url: https://youtube.com/link     # Optional. Link to a video of the workshop
